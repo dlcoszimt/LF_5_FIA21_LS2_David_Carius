@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
-class Fahrkartenautomat {
+class Fahrkartenautomat_T {
 	public static void main(String[] args) {
 		begruessung();
-
 		Scanner tastatur = new Scanner(System.in);
 		
 		double zuZahlenderBetrag = 0.0; // verändert
